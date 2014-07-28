@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"ca",
+				"campos"
+			],
+			[
+				"campos",
+				"campos_valores"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"redir",
+				"redirPara"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"classe",
+				"CLASSESPATH"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"modulo",
+				"MODULOSPATH"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"css",
+				"CSSPATH"
+			],
+			[
+				"base",
+				"BASEURL"
+			],
+			[
+				"BASE",
+				"BASEURL"
+			],
+			[
+				"define",
+				"defined"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"cli",
+				"cli_listagem"
+			],
+			[
+				"mysql_se",
+				"mysql_set_charset"
+			],
+			[
+				"query",
+				"query_cliente_juridica"
+			],
+			[
+				"ti",
+				"tipo_cliente"
+			],
+			[
+				"PD",
+				"PDO"
+			],
+			[
+				"tw",
+				"tblink:w	Bootstrap warning link button"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Deders/Downloads/cidades/index.html",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Windows",
+				"name": "index.html"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/André Batista/mkt@reports/rbtech_painel_adm_OOP/paineladm/classes/usuarios.class.php",
+		"/F/André Batista/mkt@reports/rbtech_painel_adm_OOP/paineladm/modulos/usuarios.php",
+		"/F/André Batista/mkt@reports/rbtech_painel_adm_OOP/paineladm/classes/sessao.class.php",
+		"/F/André Batista/mkt@reports/rbtech_painel_adm_OOP/paineladm/classes/base.class.php",
+		"/F/André Batista/mkt@reports/rbtech_painel_adm_OOP/paineladm/config.php",
+		"/F/André Batista/mkt@reports/rbtech_painel_adm_OOP/paineladm/funcoes.php",
+		"/C/xampp/htdocs/projects/seagate/modulos/lojas.php",
+		"/C/xampp/htdocs/projects/seagate/painel.php",
+		"/C/xampp/htdocs/projects/seagate/js/foundation/vendor/placeholder.js",
+		"/C/xampp/htdocs/projects/seagate/header.php",
+		"/C/xampp/htdocs/projects/seagate/index.php",
+		"/C/xampp/htdocs/projects/foundation/style.css",
+		"/C/xampp/htdocs/projects/foundation/index.php",
+		"/C/xampp/htdocs/projects/seagate/classes/banco.class.php",
+		"/C/xampp/htdocs/projects/seagate/classes/usuarios.class.php",
+		"/C/xampp/htdocs/projects/seagate/modulos/usuarios.php",
+		"/C/xampp/htdocs/projects/seagate/classes/autoload.php",
+		"/C/xampp/htdocs/projects/seagate/funcoes.php",
+		"/C/xampp/htdocs/projects/seagate/config.php",
+		"/C/xampp/htdocs/projects/seagate/classes/sessao.class.php",
+		"/C/xampp/htdocs/projects/seagate/classes/lojas.class.php",
+		"/C/xampp/htdocs/projects/seagate/classes/base.class.php",
+		"/C/xampp/htdocs/projects/seagate/css/style.css",
+		"/C/xampp/htdocs/projects/seagate/footer.php",
+		"/C/xampp/htdocs/projects/seagate/js/messages_pt_BR.min.js",
+		"/C/xampp/htdocs/projects/seagate/modulos/usuarios1.php",
+		"/C/xampp/htdocs/projects/seagate/sidebar.php",
+		"/C/xampp/htdocs/projects/seagate/js/geral.js",
+		"/C/xampp/htdocs/projects/seagate/css/reset.css",
+		"/C/xampp/htdocs/projects/seagate/composer.json",
+		"/C/xampp/htdocs/projects/mini-aula-php/public/index.php",
+		"/C/xampp/htdocs/projects/mini-aula-php/views/ola.twig",
+		"/C/xampp/htdocs/projects/mini-aula-php/public/.htaccess",
+		"/C/xampp/htdocs/projects/mini-aula-php/.htaccess",
+		"/C/xampp/htdocs/projects/mini-aula-php/composer.json",
+		"/C/xampp/htdocs/projects/mini-aula-php/index.php",
+		"/C/xampp/htdocs/projects/mini-aula-php/index2.php",
+		"/C/xampp/htdocs/projects/mini-aula-php/index.html",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Deders/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/projects/imaster_php_form_list_jquery/index3.html",
+		"/C/xampp/htdocs/projects/imaster_php_form_list_jquery/admin/cli_cadastro.php",
+		"/C/xampp/htdocs/projects/imaster_php_form_list_jquery/index2.php",
+		"/C/xampp/htdocs/projects/imaster_php_form_list_jquery/function.php",
+		"/C/xampp/htdocs/projects/imaster_php_form_list_jquery/index.php",
+		"/C/xampp/htdocs/projects/imaster_php_form_list_jquery/config.php",
+		"/C/xampp/htdocs/projects/imaster_php_form_list_jquery/admin/cli_listagem.php",
+		"/C/xampp/htdocs/projects/form_ajax_select/connect_db.php",
+		"/C/xampp/htdocs/projects/form_ajax_select/teste.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Logar",
+			"logar",
+			"setValor",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Deders/Downloads/cidades/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"foot",
+				"footer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

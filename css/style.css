@@ -1,0 +1,22 @@
+#body{
+    background-color: white;
+}
+.row{
+   // background-color: white;
+    margin-top: 0.125em !important;
+}
+#form_login{
+  margin-top: 10% !important;
+     
+}
+
+#content_geral{
+    height: 40,625 em;
+}
+
+#listausers_filter > label:nth-child(1) > input:nth-child(1){
+    width: 200px;
+}
+#lojasList_filter > label:nth-child(1) > input:nth-child(1){
+    width: 200px;
+}
